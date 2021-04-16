@@ -1,12 +1,9 @@
-
-
-
-
 header{
     text-align: center;
     color:black;
     font-size: 25px;
     margin: 30px auto;
+    
 }
 p{
     text-align: center;
@@ -28,5 +25,70 @@ table{
     padding: 0px 0px 0px 50px;
 }
 .tata{
-    padding: 0px 0px 0px 0px;
+    padding: 0px 50px 20px 50px;
 }
+
+table.Tabla2{
+    text-align: center;
+    border: 1px solid gray;
+    margin: 15px 105px 100px 400px;
+    color: black; 
+}
+.Tabla4{
+    color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+    
+}
+table.Tito{
+   color:aliceblue;
+    background-color:#fff;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 15px 105px 100px 455px;
+    color: black; 
+}
+.Tito2{
+    color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+}
+h1{
+    text-align: center;
+}
+table.chepa{
+    color:blueviolet;
+    background-color:#fff;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 15px 105px 100px 350px;
+    color: black; 
+}
+.chepa2{
+   color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+}
+table.holi{
+    color:blueviolet;
+    background-color:#fff;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 15px 105px 100px 428px;
+    color: black; 
+}
+.holi2{
+    color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+}
+
+
+
+
+
+
