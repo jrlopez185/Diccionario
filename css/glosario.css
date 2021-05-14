@@ -2,8 +2,9 @@ header{
     text-align: center;
     color:black;
     font-size: 25px;
-    margin: 30px auto;
-    
+    margin: 3px auto;
+   
+     
 }
 p{
     text-align: center;
@@ -19,7 +20,7 @@ table{
 
 .xd{
      color:aliceblue;
-    background-color: blueviolet;
+    background-color: black;
     text-align: center;
     border: 20px solid black;
     padding: 0px 0px 0px 50px;
@@ -36,7 +37,7 @@ table.Tabla2{
 }
 .Tabla4{
     color:aliceblue;
-    background-color: blueviolet;
+    background-color: black;
     text-align: center;
     border: 20px solid black;
     
@@ -51,7 +52,8 @@ table.Tito{
 }
 .Tito2{
     color:aliceblue;
-    background-color: blueviolet;
+    background-color: 
+    black;
     text-align: center;
     border: 20px solid black;
 }
@@ -68,7 +70,7 @@ table.chepa{
 }
 .chepa2{
    color:aliceblue;
-    background-color: blueviolet;
+    background-color: black;
     text-align: center;
     border: 20px solid black;
 }
@@ -82,7 +84,7 @@ table.holi{
 }
 .holi2{
     color:aliceblue;
-    background-color: blueviolet;
+    background-color: black;
     text-align: center;
     border: 20px solid black;
 }
