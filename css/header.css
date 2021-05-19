@@ -12,7 +12,7 @@ header{
     flex-direction: row;
     justify-content: space-between;
     padding: 10px 50px 10px 50px;
-    color:#FFF;
+    color:white;
     
 }
 
@@ -32,4 +32,6 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    color:#FFF,
 }
+
