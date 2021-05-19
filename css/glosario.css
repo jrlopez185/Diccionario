@@ -2,7 +2,7 @@ header{
     text-align: center;
     color:black;
     font-size: 25px;
-    margin: 3px auto;
+    margin: 3px 0px 10px 0px auto;
    
      
 }
@@ -14,7 +14,8 @@ table{
     text-align: center;
     border: 1px solid gray;
     margin: 10px 0px 0px 0px;
-    color: black; 
+    color: black;
+    
     
 }
 
@@ -47,7 +48,7 @@ table.Tito{
     background-color:#fff;
     text-align: center;
     border: 1px solid gray;
-    margin: 15px 105px 50px 355px;
+    margin: 15px 105px 50px 155px;
     color: black; 
 }
 .Tito2{
