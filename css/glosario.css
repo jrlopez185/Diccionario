@@ -3,9 +3,6 @@ header{
     color:black;
     font-size: 25px;
     margin: 3px 0px 10px 0px auto;
-    
-   
-     
 }
 p{
     text-align: center;
@@ -423,5 +420,144 @@ table.holi{
     width: 200px;
     height: 30px; 
     text-align: center;
-   
+   }
+@media screen and (max-width:700px){
+    .tata{
+        
+         padding:0px 150px;
+       width: 0px 390px
+       
+    }
 }
+@media screen and (max-width:700px){
+    .bio{
+        background-color: black;
+        width:590px;
+        height: 50px;
+        text-align: center;
+         
+        
+    }
+}
+@media screen and (max-width:700px){
+    li{
+        background-color: black;
+        margin:5px;
+        width: 200px
+        
+    }
+}
+@media screen and (max-width:700px){
+    ul.nav{
+        background-color: black;
+        width:60px;
+        height: 50px
+    }
+}
+@media screen and (max-width:700px){
+    div.cabecera{
+       padding:0px 150px;
+        width:390px
+        
+    }
+}
+@media screen and (max-width:700px){
+    p.listo{
+        padding:0px 150px;
+        width: 390px;
+    }
+}
+@media screen and (max-width:700px){
+    table.tata{
+        padding:0px 10px 0px 60px;
+        width: 600px;
+    }
+}
+
+@media screen and (max-width:700px){
+    h1.nosi{
+        padding:0px 150px;
+        width:390px;
+    }
+}
+@media screen and (max-width:700px){
+    .tabla2{
+       padding:0px 0px 0px 0px;
+        width: 590px;
+        
+    }
+}
+@media screen and (max-width:700px){
+    table.tabla2{
+        margin:50px;
+    }
+}
+@media screen and (max-width:700px){
+    h1.objetos{
+        padding:0px 150px;
+        width:390px;
+    }
+}
+@media screen and (max-width:700px){
+    .Tito{
+        padding:0px 0px 0px 0px;
+        width: 590px;
+        background-color: red;
+    }
+}
+@media screen and (max-width:700px){
+    table.Tito{
+         margin:50px;
+    }
+}
+@media screen and (max-width:700px){
+    h1.listado{
+        padding:0px 150px;
+        width:390px;
+    }
+}
+@media screen and (max-width:700px){
+    .chepa{
+        padding:0px 0px 0px 0px;
+        width: 590px;
+        background-color: red;
+    }
+}
+@media screen and (max-width:700px){
+    table.chepa{
+        margin:50px;
+    }
+}
+@media screen and (max-width:700px){
+    h1.pixeles{
+        padding:0px 150px;
+        width:390px;
+    }
+}
+@media screen and (max-width:700px){
+    .holi{
+        padding:0px 0px 0px 0px;
+        width: 590px;
+        background-color: red; 
+    }
+}
+@media screen and (max-width:700px){
+    table.holi{
+       margin:50px; 
+    }
+}
+@media screen and (max-width:700px){
+    h1.natore{
+        padding:0px 150px;
+        width:390px;
+    }
+}
+@media screen and (max-width:700px){
+    .imagenes{
+        
+        width:490px;
+        height: 100px
+    }
+}
+
+
