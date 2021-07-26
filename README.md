@@ -13,11 +13,11 @@ Portafolio lll periodo 2021
 
 Indice
 
-Portada....................................................................1
-
-Anteportada..........................................................2
-Indice....................................................................4
-
+- Glosario HTML y CSS
+- Home page
+- Glosario
+- Contendio HTML
+- Contenido CSS
 
 
 | Objetivos|
@@ -25,13 +25,3 @@ Indice....................................................................4
 | Ganar el curso con el mejor punteo posible  |
 | Entregar el portafolio lo mejor posible y con las especificaciones dadas  |
 | Ganar el año  |
-
-
-
-
-
-
-
-
-
-
