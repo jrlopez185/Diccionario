@@ -39,12 +39,14 @@ header{
 @media screen and (max-width: 700px){
     header{
         background-color: black;
-        width:499px;
+        width:375px;
+        padding: 0px 0px 0px 0px;
     }
 }
 @media screen and (max-width: 700px){
     .nav{
         background-color: black;
+        
         
     }
 }
