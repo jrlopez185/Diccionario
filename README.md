@@ -16,12 +16,18 @@ Indice
 - Glosario HTML y CSS
 - Home page
 - Glosario
-- Contendio HTML
-- Contenido CSS
+
 
 
 | Objetivos|
 | ------------ |
 | Ganar el curso con el mejor punteo posible  |
 | Entregar el portafolio lo mejor posible y con las especificaciones dadas  |
+| Ganar el año  |
+
+
+| Objetivos futuros|
+| ------------ |
+| Aprender mas de html y css |
+| Ganar el curso|
 | Ganar el año  |
