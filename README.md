@@ -13,9 +13,13 @@ Portafolio lll periodo 2021
 
 Indice
 
+- Portada
+- Anteportada
+- Indice
+- Objetivos
 - Glosario HTML y CSS
 - Home page
-- Glosario
+- Objetivos Futuros
 
 
 
