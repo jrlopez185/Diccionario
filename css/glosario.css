@@ -430,11 +430,12 @@ table.holi{
     }
 }
 @media screen and (max-width:700px){
-    .bio{
+    header.bio{
         background-color: black;
-        width:590px;
-        height: 50px;
+        width:375px;
+        height: 55px;
         text-align: center;
+        
          
         
     }
@@ -456,8 +457,9 @@ table.holi{
 }
 @media screen and (max-width:700px){
     div.cabecera{
-       padding:0px 150px;
-        width:390px
+       padding:10px 150px ;
+        width:375px;
+        
         
     }
 }
@@ -469,81 +471,82 @@ table.holi{
 }
 @media screen and (max-width:700px){
     table.tata{
-        padding:0px 10px 0px 60px;
-        width: 600px;
+        padding:0px 0px 0px 0px;
+        width: 375px;
+        margin:0px;
     }
 }
 
 @media screen and (max-width:700px){
     h1.nosi{
-        padding:0px 150px;
-        width:390px;
+        padding:0px 0px;
+        width:375px;
     }
 }
 @media screen and (max-width:700px){
     .tabla2{
        padding:0px 0px 0px 0px;
-        width: 590px;
+        width: 375px;
         
     }
 }
 @media screen and (max-width:700px){
     table.tabla2{
-    margin: 16px;
+    margin: 0px;
     }
 }
 @media screen and (max-width:700px){
     h1.objetos{
-        padding:0px 150px;
-        width:390px;
+        padding:0px 0px;
+        width:375px;
     }
 }
 @media screen and (max-width:700px){
     .Tito{
         padding:0px 0px 0px 0px;
-        width: 590px;
-        background-color: red;
+        width: 375px;
+       
     }
 }
 @media screen and (max-width:700px){
     table.Tito{
-       margin: 16px;
+       margin: 0px;
     }
 }
 @media screen and (max-width:700px){
     h1.listado{
-        padding:0px 150px;
-        width:390px;
+        padding:0px 0px;
+        width:375px;
     }
 }
 @media screen and (max-width:700px){
     .chepa{
         padding:0px 0px 0px 0px;
-        width: 590px;
+        width: 375px;
         background-color: red;
     }
 }
 @media screen and (max-width:700px){
     table.chepa{
-        margin: 16px;
+        margin: 0px;
     }
 }
 @media screen and (max-width:700px){
     h1.pixeles{
-        padding:0px 150px;
-        width:390px;
+        padding:0px 0px;
+        width:375px;
     }
 }
 @media screen and (max-width:700px){
     .holi{
         padding:0px 0px 0px 0px;
-        width: 590px;
+        width: 375px;
         background-color: red; 
     }
 }
 @media screen and (max-width:700px){
     table.holi{
-     margin: 16px;
+     margin: 0px;
     }
 }
 @media screen and (max-width:700px){
@@ -552,11 +555,27 @@ table.holi{
         width:390px;
     }
 }
+
+
 @media screen and (max-width:700px){
-    .imagenes{
+    div.cabecera{
+        width: 375px;
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+@media screen and (max-width:700px){
+    p.listo{
+         width: 375px;
+        padding: 10px 0px 10px 0px;
+       
+    }
+}
+
+@media screen and (max-width:700px){
+    h1.lali{
+        padding: 0px 0px 0px 0px;
         
-        width:490px;
-        height: 100px
     }
 }
 
